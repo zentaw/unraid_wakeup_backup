@@ -5,7 +5,7 @@ initialize_variables() {
     PRIMARY_HOST_MAC="AA:AA:AA:AA:AA:AA" # MAC adress if using wake on lan.
     PRIMARY_HOST_SSH_USERNAME="root" # Replace with your SSH username, only developed for root so far.
     PRIMARY_HOST_SSH_PASSWORD="" # Replace with your SSH password or leave empty if using SSH keys
-    SECONDARY_HOST="10.0.0.1" # If PRIMARY_HOST dosent respond this host can be checked if net is down.
+    SECONDARY_HOST="10.0.0.1" # If PRIMARY_HOST dosent respond this host can be checked if net is down. WIP
     WIFI_PLUG_IP="10.0.0.110" # Replace with the actual IP address of your wifi-plug
     WIFI_PLUG_USERNAME="admin" # Replace with your wifi-plug username
     WIFI_PLUG_PASSWORD="SuperSecretPassword" # Replace with your wifi-plug password
