@@ -1,7 +1,8 @@
 # unraid_wakeup_backup
 
 ## What is this?
-I got inspired by Spaceinvader One backup solution in unraid. This is a script that runs that script/s, which is normaly powered off, by powering on server and when done safely powering off server.
+I got inspired by Spaceinvader One backup solution in unraid.
+This is a script that runs other script/s by powering on server and when done safely powering off server.
 https://github.com/SpaceinvaderOne/Unraid_ZFS_Dataset_Snapshot_and_Replications
 
 
